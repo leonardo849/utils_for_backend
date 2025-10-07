@@ -1,0 +1,12 @@
+package errors
+
+const (
+	NOTFOUND          = "NOT FOUND"
+	INTERNALSERVER    = "INTERNAL SERVER ERROR"
+	CONFLICT          = "CONFLICT ERROR"
+	BADREQUEST        = "BAD REQUEST"
+	UNAUTHORIZED      = "UNAUTHORIZED"
+	FORBIDDEN         = "FORBIDDEN"
+)
+
+
